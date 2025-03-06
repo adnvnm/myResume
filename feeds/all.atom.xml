@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>myResume</title><link href="https://adnvnm.github.io/myResume/" rel="alternate"></link><link href="https://adnvnm.github.io/myResume/feeds/all.atom.xml" rel="self"></link><id>https://adnvnm.github.io/myResume/</id><updated>2025-04-03T00:00:00+02:00</updated><entry><title>My Resume</title><link href="https://adnvnm.github.io/myResume/my-resume.html" rel="alternate"></link><published>2025-04-03T00:00:00+02:00</published><updated>2025-04-03T00:00:00+02:00</updated><author><name>Adnan</name></author><id>tag:adnvnm.github.io,2025-04-03:/myResume/my-resume.html</id><summary type="html">&lt;h1&gt;Mohammad Adnan Malik&lt;/h1&gt;
+&lt;p&gt;431-877-1675&lt;br&gt;
+the1adnanmalik@gmail.com&lt;/p&gt;
+&lt;h2&gt;Profile&lt;/h2&gt;
+&lt;p&gt;Motivated Computer Science undergraduate with a strong foundation in software development, algorithms, and problem-solving. Experienced in programming languages such as Python, Java, and C++, with a keen interest in web development, data structures, and system design. Passionate about building efficient, scalable solutions …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Mohammad Adnan Malik&lt;/h1&gt;
+&lt;p&gt;431-877-1675&lt;br&gt;
+the1adnanmalik@gmail.com&lt;/p&gt;
+&lt;h2&gt;Profile&lt;/h2&gt;
+&lt;p&gt;Motivated Computer Science undergraduate with a strong foundation in software development, algorithms, and problem-solving. Experienced in programming languages such as Python, Java, and C++, with a keen interest in web development, data structures, and system design. Passionate about building efficient, scalable solutions and continuously improving technical skills. Proven ability to work in collaborative environments, adapt to new technologies, and apply theoretical knowledge to real-world projects. Seeking opportunities to contribute and grow in software development, data engineering, or related fields.&lt;/p&gt;
+&lt;h2&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Computer Science, B.Sc. Major&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;University of Manitoba&lt;/em&gt;.&lt;br&gt;
+September, 2022 - Present&lt;/p&gt;
+&lt;h2&gt;Work Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Clerk Grocery&lt;/em&gt;&lt;/strong&gt; - &lt;em&gt;Sobeys&lt;/em&gt;&lt;br&gt;
+February, 2023 - June, 2023&lt;/p&gt;
+&lt;h2&gt;Projects&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Personal Static Website&lt;/em&gt;&lt;/strong&gt; &lt;br&gt;
+- Built a personal portfolio using Jekyll and hosted it on GitHub Pages. &lt;br&gt;
+- Applied technical writing principles to document the project effectively.&lt;/p&gt;
+&lt;h2&gt;Technical Skills&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Java, C, C++, Python, Processing &lt;br&gt;
+&lt;strong&gt;Tools &amp;amp; Softwares:&lt;/strong&gt; Git, Github, Microsoft Office&lt;/p&gt;</content><category term="Resume"></category></entry></feed>
